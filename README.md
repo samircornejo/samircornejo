@@ -18,7 +18,6 @@
 <h2>💼 | Experience Focus</h2>
 <ul>
   <li>🚀 <b>CODECTA:</b> Evolucioné de Frontend Developer a <b>Jefe de Grupo</b>, gestionando dos equipos simultáneos en proyectos de <b>Next.js</b> y <b>Flutter</b>.</li>
-  <li>📦 <b>Logística:</b> Experiencia en gestión de repuestos y flujo taller-agencia (Sector Automotriz).</li>
 </ul>
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
