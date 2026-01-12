@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&pause=1000&color=3B82F6&width=500&height=70&vCenter=true&lines=Hola!+👋;+Soy+Samir+Cornejo;+Software+Developer;" />
 
 <h2>📖 | About me</h2> 
-🌐 **Software Developer** egresado de **SENATI** con experiencia liderando equipos técnicos en **CODECTA**. Especializado en crear soluciones Web y Móviles de alto impacto. Tengo la capacidad de gestionar proyectos desde la arquitectura frontend hasta el despliegue backend, siempre enfocado en código limpio y resolución eficiente de problemas bajo presión.
+🌐 **Software Developer** egresado de **SENATI** con experiencia liderando equipos técnicos en **CODECTA**. Especializado en crear soluciones Web y Móviles de alto impacto. Tengo la capacidad de gestionar proyectos , siempre enfocado en código limpio y resolución eficiente de problemas bajo presión.
 
 <h2>📚 | Education</h2>
 <div align="center">
