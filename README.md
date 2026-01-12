@@ -20,13 +20,6 @@
   <li>🚀 <b>CODECTA:</b> Evolucioné de Frontend Developer a <b>Jefe de Grupo</b>, gestionando dos equipos simultáneos en proyectos de <b>Next.js</b> y <b>Flutter</b>.</li>
   <li>📦 <b>Logística:</b> Experiencia en gestión de repuestos y flujo taller-agencia (Sector Automotriz).</li>
 </ul>
-
-<h2>⭐ | Github Stats </h2>
-<div align="center">
-<a href="https://github.com/samircornejo"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samircornejo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/></a>
-</div>
-
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
