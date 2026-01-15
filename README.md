@@ -3,18 +3,6 @@
 <h2>📖 | About me</h2> 
 🌐 **Software Developer** egresado de **SENATI** con experiencia liderando equipos técnicos en **CODECTA**. Especializado en crear soluciones Web y Móviles de alto impacto. Tengo la capacidad de gestionar proyectos , siempre enfocado en código limpio y resolución eficiente de problemas bajo presión.
 
-<h2>📚 | Education</h2>
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto; border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <strong style="font-size: 1.2rem;">SENATI</strong><br>
-        <span>Desarrollo de Software</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <h2>💼 | Experience Focus</h2>
 <ul>
   <li>🚀 <b>CODECTA:</b> Evolucioné de Frontend Developer a <b>Jefe de Grupo</b>, gestionando dos equipos simultáneos en proyectos de <b>Next.js</b> y <b>Flutter</b>.</li>
